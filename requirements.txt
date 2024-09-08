@@ -1,0 +1,5 @@
+torch
+joblib 
+gradio
+scikit-learn
+pillow
